@@ -1,0 +1,16 @@
+{
+  "name": "yrsdd",
+  "owner": {
+    "name": "Yurii Radov"
+  },
+  "plugins": [
+    {
+      "name": "yrsdd",
+      "source": "./",
+      "version": "0.1.0",
+      "description": "Spec-driven development in three levels (lite / mvp / full) with a TDD loop, per-task review and resumable state documents.",
+      "category": "workflow",
+      "tags": ["sdd", "tdd", "review"]
+    }
+  ]
+}

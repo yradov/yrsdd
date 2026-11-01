@@ -1,0 +1,10 @@
+{
+  "name": "yrsdd",
+  "version": "0.1.0",
+  "description": "Spec-driven development in three levels (lite / mvp / full). Every level analyzes the task, splits it into steps, runs a strict TDD loop per task (failing test, code, gate), reviews each task with a clean-context reviewer (pass moves on, findings send the task back for rework), and writes state documents to disk so any agent can resume after a context reset.",
+  "author": {
+    "name": "Yurii Radov"
+  },
+  "license": "MIT",
+  "keywords": ["sdd", "spec-driven-development", "tdd", "review", "claude-code"]
+}
